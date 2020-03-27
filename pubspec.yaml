@@ -13,7 +13,10 @@ dependencies:
   extra_pedantic: ^1.1.1+3
   geopoint_location: ^0.4.0
   fluttertoast: ^3.1.3
-  fluxmap: ^0.2.0
+  fluxmap:  
+    git: 
+      url: git://github.com/okyrahmanto/fluxmap.git
+      ref: master
   latlong: ^0.6.1
   device: ^0.1.1
   geopoint: ^0.7.0
